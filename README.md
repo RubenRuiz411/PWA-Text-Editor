@@ -40,8 +40,6 @@ Link to Deployed Application:
 
 [JATE-2](https://jate-2-6e73c30aff06.herokuapp.com/)
 
-https://jate-2-6e73c30aff06.herokuapp.com/
-
 ## Credits
 
 UCLA Extension Full Stack Bootcamp Instructor, T.A. and provided tutors.
