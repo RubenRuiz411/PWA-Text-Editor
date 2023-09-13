@@ -36,9 +36,11 @@ Clone repository and open cloned folder in VS Code. Within the VS Terminal insta
 
 ## Usage
 
-Link to deployed Application:
+Link to Deployed Application:
 
 [JATE-2](https://jate-2-6e73c30aff06.herokuapp.com/)
+
+https://jate-2-6e73c30aff06.herokuapp.com/
 
 ## Credits
 
